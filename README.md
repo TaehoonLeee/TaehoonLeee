@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Multiplatform Compose](https://github.com/JetBrains/compose-multiplatform) [Contributor](https://github.com/JetBrains/compose-multiplatform/pull/2575)https://github.com/JetBrains/compose-multiplatform/pull/2575
+[Multiplatform Compose](https://github.com/JetBrains/compose-multiplatform) [Contributor](https://github.com/JetBrains/compose-multiplatform/pull/2575)
 
-[People In Space](https://github.com/joreilly/PeopleInSpace) [Contributor](https://github.com/joreilly/PeopleInSpace/pull/140)https://github.com/joreilly/PeopleInSpace/pull/140
+[People In Space](https://github.com/joreilly/PeopleInSpace) [Contributor](https://github.com/joreilly/PeopleInSpace/pull/140)
